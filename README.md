@@ -15,6 +15,15 @@ Finding a job is very challenging during these tumultuous times. This document c
  - CS Careers
     - [Process Tracking](https://docs.google.com/spreadsheets/u/1/d/1eyHEKQBgqqXqdVpX2ZndVxmZjCq4m68nBLi5X0MhEX8/edit) - Whether companies have started recruiting and where in that process they lie.
     - [New Grad Oppertunities](https://github.com/cscareers-dev/2021-new-grad)
+ - [Hacker News](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22Ask%20HN%3A%20who%20is%20hiring%3F%22%2020&sort=byDate&type=story)
+    - Searchers *(No Specific Order)*
+        - [FindWork](https://findwork.dev/?source=hn)
+        - [KennyHilton Regex](https://kennytilton.github.io/whoishiring/)
+        - [HN Hired](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/)
+        - [EmilBurso HNJobs](https://hnjobs.emilburzo.com/)
 
 ### Communities
  - [CS Careers Dev Discord](https://cscareers.dev/)
+
+### Salary Information
+ - [Levels FYI](https://www.levels.fyi/)
