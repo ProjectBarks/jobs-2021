@@ -23,7 +23,8 @@ Finding a job is very challenging during these tumultuous times. This document c
         - [EmilBurso HNJobs](https://hnjobs.emilburzo.com/)
 
 ### Communities
- - [CS Careers Dev Discord](https://cscareers.dev/)
+ - [CS Careers Dev Discord](https://cscareers.dev/) - University grads helping other university grads
+ - [Blind](https://www.teamblind.com/) - Anonymous network for sharing salaries, job referalls, and gossip
 
 ### Salary Information
  - [Levels FYI](https://www.levels.fyi/)
