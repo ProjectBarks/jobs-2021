@@ -39,6 +39,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Pinterest](https://www.pinterestcareers.com/jobs/software-engineer-shopping-content-san-francisco-california-united-states) | San Francisco | Software Engineer, Shopping Content |
 | [Pinterest](https://www.pinterestcareers.com/jobs/web-engineer-pinner-foundations-san-francisco-california-united-states) | San Francisco | Web Engineer, Pinner Foundations |
 | [Microsoft](https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-2006549503/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer |
+| [Microsoft](https://careers.microsoft.com/us/en/job/844352/Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Software Engineer |
 | [Google](https://careers.google.com/jobs/results/72445869200155334-software-engineer-engineering-productivity/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=San%20Francisco,%20CA,%20USA&q=software%20engineer&sort_by=relevance) | San Francisco | Software Engineer, Engineering Productivity |
 | [Google](https://careers.google.com/jobs/results/129174759318397638-software-engineer-front-end/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=San%20Francisco,%20CA,%20USA&q=software%20engineer&sort_by=relevance) | San Francisco | Software Engineer, Frontend |
 | [Google](https://careers.google.com/jobs/results/91589053834502854-software-engineer-machine-learning/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=San%20Francisco,%20CA,%20USA&q=software%20engineer&sort_by=relevance)| San Francisco | Software Engineer, Machine Learning |
@@ -46,12 +47,16 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Twitter](https://jobs.smartrecruiters.com/oneclick-ui/company/Twitter2/publication/858fcffc-22af-4016-b1db-e1ec6c9204e0?dcr_id=DCRA1) | San Francisco | Software Engineer, Fullstack |
 | [Square ](https://www.linkedin.com/jobs/view/software-engineer-frontend-buyer-payment-experiences-at-square-1995031325/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer, Front End |
 | [Twitch](https://www.linkedin.com/jobs/view/1991616417/) | San Francisco | Software Engineer |
-| [Facebook](https://www.facebook.com/careers/jobs/593694497939686/?location=San%20Francisco%2C%20CA&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer, Infrastructure |
-| [Facebook](https://www.facebook.com/careers/jobs/251300712749003/?ref=a8lA00000004CEWIA2) | San Francisco | Software Engineer, Product |
+| [Facebook](https://www.facebook.com/careers/jobs/1559217084255670/?location=New%20York%2C%20NY&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, NYC | Software Engineer, New Grad | 
+| [Facebook](https://www.facebook.com/careers/jobs/593694497939686/?location=San%20Francisco%2C%20CA&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, NYC | Software Engineer, Infrastructure |
+| [Facebook](https://www.facebook.com/careers/jobs/251300712749003/?ref=a8lA00000004CEWIA2) | San Francisco, NYC | Software Engineer, Product |
 | [Apple](https://www.linkedin.com/jobs/view/1991637281/?alternateChannel=paview) | Cupertino, CA | Software Engineer |
-| [Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail) | San Francisco | Software Engineer |
+| [Apple](https://jobs.apple.com/en-us/details/200183954/software-engineer-apple-pay) | NYC | Software Engineer, Apple Pay |
+| [Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail) | San Francisco | Software Engineer, New Grad |
 | [Dell](https://jobs.dell.com/job/san-francisco/software-engineer/375/17206116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?source=PayPalJobs) | San Francisco | Software Engineer |
-| [Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716) | San Francisco/ NYC | Software Engineer, New Grad |
-| [Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3) | San Francisco/ NYC | Software Engineer, New Grad |
-
+| [Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716) | San Francisco, NYC | Software Engineer, New Grad |
+| [Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3) | San Francisco, NYC | Software Engineer, New Grad |
+| [Ebay](https://jobs.ebayinc.com/job/san-francisco/full-stack-software-engineer/403/767868208?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Fullstack Software Engineer |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718455098) | San Francisco | Software Engineer, Payments |
+| [MongoDB](https://www.mongodb.com/careers/jobs/2309034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Software Engineer, New Grad |
