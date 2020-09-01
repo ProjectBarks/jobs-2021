@@ -53,7 +53,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Apple](https://jobs.apple.com/en-us/details/200183954/software-engineer-apple-pay) | NYC | Software Engineer, Apple Pay |
 | [Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail) | San Francisco | Software Engineer, New Grad |
 | [Dell](https://jobs.dell.com/job/san-francisco/software-engineer/375/17206116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer |
-| [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?source=PayPalJobs) | San Francisco | Software Engineer |
+| [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?source=PayPalJobs) | San Francisco | Software Engineer, New Grad |
 | [Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716) | San Francisco, NYC | Software Engineer, New Grad |
 | [Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3) | San Francisco, NYC | Software Engineer, New Grad |
 | [Ebay](https://jobs.ebayinc.com/job/san-francisco/full-stack-software-engineer/403/767868208?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Fullstack Software Engineer |
