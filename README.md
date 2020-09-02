@@ -100,3 +100,4 @@ Finding a job is very challenging during these tumultuous times. This document c
 | Company       | 
 |---------------|
 | [WeWork](https://careers.wework.com/job-search-results/?category=Technology&location=USA&country=US&radius=25) | 
+| [Snap Inc.](https://www.snap.com/jobs/?roles=Engineering&types=Regular)|
