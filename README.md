@@ -65,6 +65,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [MongoDB](https://www.mongodb.com/careers/jobs/2309034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Software Engineer, New Grad |
 | [IBM](https://careers.ibm.com/ShowJob/Id/961830/Entry-Level-Front-End-Developer-2021/) | San Francisco, NYC | Front End Developer, Entry Level |
 | [IBM](https://careers.ibm.com/ShowJob/Id/961979/Entry-Level-Back-End-Developer-2021/) | San Francisco, NYC | Back End Developer, Entry Level |
+| [IBM](https://careers.ibm.com/ShowJob/Id/961984/Entry-Level-Cognitive-Developer-2021/?lang=en) | San Francisco, NYC | Cognitive Developer, Entry Level |
 | [Spotify](https://www.linkedin.com/jobs/view/backend-engineer-free-product-at-spotify-2005145757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Backend Engineer, Free Product |
 | [Spotify](https://www.spotifyjobs.com/job/data-engineer-personalization/) | NYC | Data Engineer, Personalization |
 | [Spotify](https://www.spotifyjobs.com/job/senior-data-engineer-3/) | NYC | Data Engineer |
