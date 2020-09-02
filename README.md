@@ -56,8 +56,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer/403/1054728320) | San Francisco | Fullstack Software Engineer |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718632673) | San Francisco | Software Engineer, Web and Mobile, New Grad |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718269798) | San Francisco | Software Engineer, Infrastructure (Security), New Grad |
-| [Wish](https://jobs.smartrecruiters.com/Wish/743999718269729) | San Francisco | Software Engineer, Infrastructure (Tools & 
-Automation), New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718269729) | San Francisco | Software Engineer, Infrastructure (Tools & Automation), New Grad |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718269695) | San Francisco | Software Engineer, Infrastructure (Core), New Grad |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718157952) | San Francisco | Full Stack Software Engineer, New Grad |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999717569944) | San Francisco | Software Engineer, Android, New Grad |
