@@ -97,6 +97,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/New-York-New-York/Software-Engineer--iOS-1--Years---NYC_R0014630) | New York | Software Engineer, iOS 1+ Years |
 | [GoPuff](https://jobs.gopuff.com/careers-home/jobs/1831?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Philadelphia, PA | Software Engineer, New Grad |
 | [Yext](https://boards.greenhouse.io/yext/jobs/2290402?gh_src=iq6m01) | NYC | Software Engineer, New Grad |
+| [GrubHub](https://careers-grubhub.icims.com/jobs/10296/software-engineer-i/job?iis=The+Muse&iisn=The+Muse&mode=job&mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NYC | Software Engineer I |
 
 ### Watching
 
