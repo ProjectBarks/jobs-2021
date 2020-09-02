@@ -87,11 +87,11 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2223637) | Menlo Park | Android Engineer | ✅ |
 | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | Software Engineer |
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4821271002) | Pittsburgh, PA | Software Engineer |
-| [Coinbase](https://www.coinbase.com/careers/positions/1724688) | San Francisco, CA |University Grad, Software Engineer (Remote) | ✅ |
+| [Coinbase](https://www.coinbase.com/careers/positions/1724688) | Remote | Software Engineer | ✅ |
 | [Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote - Anywhere |Software Engineer | ✅ | 
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728) | Santa Clara, CA Texas, Utah, etc | Software Engineer | ✅ |
-| [Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002) | Atlanta, GA , San Francisco, CA |Software Engineer - New College Graduate| ✅ |
-| [Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27) |San Francisco, CA |New Grad Software Engineer| ✅ |
+| [Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002) | Atlanta, GA , San Francisco, CA | Software Engineer - New College Graduate| ✅ |
+| [Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27) |San Francisco, CA | New Grad Software Engineer| ✅ |
 | [Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49) | Mtn. View, CA | Software Engineer |
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Francisco-California/Software-Engineer_R0014505) | San Francisco | Software Engineer, Snap Map & Places |
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/New-York-New-York/Software-Engineer--iOS-1--Years---NYC_R0014630) | New York | Software Engineer, iOS 1+ Years |
@@ -102,7 +102,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Tesla](https://www.tesla.com/careers/job/software-engineervehicleuserinterface-42689) | Palo Alto, CA | Software Engineer, Vehicle User Interface |
 | [Tesla](https://www.tesla.com/careers/job/software-engineerfrontendreact-45988) | Palo Alto, CA | Software Engineer, Front End (React) |
 | [Tesla](https://www.tesla.com/careers/job/software-engineer-ui-ux-52632) | Fremont, CA | Software Engineer, UI UX |
-| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Engineer---Java-Infra_87001) | San Jose/ Boston | Software Engineer |✅ | 
+| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Engineer---Java-Infra_87001) | San Jose/Boston | Software Engineer |✅ | 
 ### Watching
 
 | Company       | 
