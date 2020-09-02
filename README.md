@@ -54,7 +54,15 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3) | San Francisco, NYC | Software Engineer, New Grad |
 | [Ebay](https://jobs.ebayinc.com/search-jobs?ac=44359) | San Francisco | Fullstack Software Engineer |
 | [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer/403/1054728320) | San Francisco | Fullstack Software Engineer |
-| [Wish](https://jobs.smartrecruiters.com/Wish/743999718455098) | San Francisco | Software Engineer, Payments |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718632673) | San Francisco | Software Engineer, Web and Mobile, New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718269798) | San Francisco | Software Engineer, Infrastructure (Security), New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718269729) | San Francisco | Software Engineer, Infrastructure (Tools & 
+Automation), New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718269695) | San Francisco | Software Engineer, Infrastructure (Core), New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999718157952) | San Francisco | Full Stack Software Engineer, New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999717569944) | San Francisco | Software Engineer, Android, New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999717412768) | San Francisco | Data Scientist, New Grad |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999717245359) | San Francisco | Software Engineer, Data, New Grad |
 | [MongoDB](https://www.mongodb.com/careers/jobs/2309034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Software Engineer, New Grad |
 | [IBM](https://careers.ibm.com/ShowJob/Id/961830/Entry-Level-Front-End-Developer-2021/) | San Francisco, NYC | Front End Developer, Entry Level |
 | [IBM](https://careers.ibm.com/ShowJob/Id/961979/Entry-Level-Back-End-Developer-2021/) | San Francisco, NYC | Back End Developer, Entry Level |
