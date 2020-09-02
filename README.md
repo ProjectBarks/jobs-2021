@@ -86,7 +86,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214220) | Menlo Park | Backend Engineer, New Grad |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2223637) | Menlo Park | Android Engineer, New Grad |
 | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | Software Engineer |
-| [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | Software Engineer |
+| [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4821271002) | Pittsburgh, PA | Software Engineer |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB) | USA | Analyst Program|
 | [Coinbase](https://www.coinbase.com/careers/positions/1724688) | San Francisco, CA |University Grad, Software Engineer (Remote) |
 | [Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote - Anywhere |Software Engineer, New Grad |
