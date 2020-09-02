@@ -64,7 +64,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [IBM](https://careers.ibm.com/ShowJob/Id/961984/Entry-Level-Cognitive-Developer-2021/?lang=en) | San Francisco, NYC | Cognitive Developer, Entry Level | ✅ |
 | [Spotify](https://www.linkedin.com/jobs/view/backend-engineer-free-product-at-spotify-2005145757/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Backend Engineer, Free Product |
 | [Spotify](https://www.spotifyjobs.com/job/data-engineer-personalization/) | NYC | Data Engineer, Personalization |
-| [Spotify](https://www.spotifyjobs.com/job/senior-data-engineer-3/) | NYC | Data Engineer |
 | [Spotify](https://www.spotifyjobs.com/job/backend-engineer-financial-integrations-and-tools/) | NYC | Backend Engineer, Financial Integration |
 | [Spotify](https://www.spotifyjobs.com/job/full-stack-engineer-data-science-tools-insights-platform/) | NYC | Full Stack Engineer, Data Science Tools |
 | [Spotify](https://www.spotifyjobs.com/job/data-engineer-free-product/) | NYC | Data Engineer, Free Product |
