@@ -75,5 +75,24 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Spotify](https://www.spotifyjobs.com/job/backend-engineer-free-product/) | NYC | Backend Engineer, Free Product |
 | [Spotify](https://www.spotifyjobs.com/job/android-engineer-platform-mission-2/) | NYC | Android Engineer, Platform Mission |
 | [Spotify](https://www.spotifyjobs.com/job/android-engineer-personalization/) | NYC | Android Engineer, Personalization |
-
-
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | NYC | Software Engineer |
+| [Amazon](https://www.amazon.jobs/en/jobs/1153724/software-development-engineer) | NYC, San Francisco | Software Engineer |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214433) | Menlo Park | Software Engineer, Security, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214452) | Menlo Park | Web Engineer, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214244) | Menlo Park | IOS Engineer, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2267832) | Menlo Park | Data Analyst, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2274767) | Menlo Park | Business Automation Engineer, Web, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214234) | Menlo Park | Business Automation Engineer, Backend, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214220) | Menlo Park | Backend Engineer, New Grad |
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2223637) | Menlo Park | Android Engineer, New Grad |
+| [HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | Software Engineer |
+| [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | Software Engineer |
+| [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB) | USA | Analyst Program|
+| [Coinbase](https://www.coinbase.com/careers/positions/1724688) | San Francisco, CA |University Grad, Software Engineer (Remote) |
+| [Quora](https://boards.greenhouse.io/quora2/jobs/4810866002?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote - Anywhere |Software Engineer, New Grad |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-MA-Westford/Verification-Engineer---New-College-Grad_JR1924728) | Santa Clara, CA Texas, Utah, etc | Software Engineer, New Grad |
+| [Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002) | Atlanta, GA , San Francisco, CA |Software Engineer - New College Graduate|
+| [Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27) |San Francisco, CA |New Grad Software Engineer|
+| [Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49) | Mtn. View, CA | Software Engineer |
+| [Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC) | NY | Software Engineer |
+| [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB) | CA |Analyst Program|
