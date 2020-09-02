@@ -95,7 +95,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49) | Mtn. View, CA | Software Engineer |
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Francisco-California/Software-Engineer_R0014505) | San Francisco | Software Engineer, Snap Map & Places |
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/New-York-New-York/Software-Engineer--iOS-1--Years---NYC_R0014630) | New York | Software Engineer, iOS 1+ Years |
-| [GoPuff](https://jobs.gopuff.com/careers-home/jobs/1831?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Philadelphia, PA | Software Engineer, New Grad |
 | [Yext](https://boards.greenhouse.io/yext/jobs/2290402?gh_src=iq6m01) | NYC | Software Engineer, New Grad |
 | [GrubHub](https://careers-grubhub.icims.com/jobs/10296/software-engineer-i/job?iis=The+Muse&iisn=The+Muse&mode=job&mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NYC | Software Engineer I |
 | [Honey](https://jobsearch.paypal-corp.com/en-US/job/frontend-engineer/J3R04J6H4TTBYPQ6P3F) | Los Angeles, CA | Frontend Software Engineer |
