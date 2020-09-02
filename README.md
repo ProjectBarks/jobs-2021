@@ -95,6 +95,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49) | Mtn. View, CA | Software Engineer |
 | [Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC) | NY | Software Engineer |
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Francisco-California/Software-Engineer_R0014505) | San Francisco | Software Engineer, Snap Map & Places |
+| [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/New-York-New-York/Software-Engineer--iOS-1--Years---NYC_R0014630) | New York | Software Engineer, iOS 1+ Years |
 
 ### Watching
 
