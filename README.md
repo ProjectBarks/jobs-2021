@@ -52,7 +52,8 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?source=PayPalJobs) | San Francisco | Software Engineer, New Grad |
 | [Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716) | San Francisco, NYC | Software Engineer, New Grad |
 | [Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3) | San Francisco, NYC | Software Engineer, New Grad |
-| [Ebay](https://jobs.ebayinc.com/job/san-francisco/full-stack-software-engineer/403/767868208?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Fullstack Software Engineer |
+| [Ebay](https://jobs.ebayinc.com/search-jobs?ac=44359) | San Francisco | Fullstack Software Engineer |
+| [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer/403/1054728320) | San Francisco | Fullstack Software Engineer |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718455098) | San Francisco | Software Engineer, Payments |
 | [MongoDB](https://www.mongodb.com/careers/jobs/2309034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | NYC | Software Engineer, New Grad |
 | [IBM](https://careers.ibm.com/ShowJob/Id/961830/Entry-Level-Front-End-Developer-2021/) | San Francisco, NYC | Front End Developer, Entry Level |
