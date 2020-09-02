@@ -98,6 +98,10 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Yext](https://boards.greenhouse.io/yext/jobs/2290402?gh_src=iq6m01) | NYC | Software Engineer, New Grad |
 | [GrubHub](https://careers-grubhub.icims.com/jobs/10296/software-engineer-i/job?iis=The+Muse&iisn=The+Muse&mode=job&mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NYC | Software Engineer I |
 | [Honey](https://jobsearch.paypal-corp.com/en-US/job/frontend-engineer/J3R04J6H4TTBYPQ6P3F) | Los Angeles, CA | Frontend Software Engineer |
+| [Tesla](https://www.tesla.com/careers/job/software-engineerdataplatform-40000) | Palo Alto, CA | Software Engineer, Data Platform |
+| [Tesla](https://www.tesla.com/careers/job/software-engineervehicleuserinterface-42689) | Palo Alto, CA | Software Engineer, Vehicle User Interface |
+| [Tesla](https://www.tesla.com/careers/job/software-engineerfrontendreact-45988) | Palo Alto, CA | Software Engineer, Front End (React) |
+| [Tesla](https://www.tesla.com/careers/job/software-engineer-ui-ux-52632) | Fremont, CA | Software Engineer, UI UX |
 
 ### Watching
 
