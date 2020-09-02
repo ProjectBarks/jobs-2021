@@ -33,8 +33,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 | Company       | Location       | Position                               | New Grad |
 |---------------|----------------|----------------------------------------|----------|
-| [Pinterest](https://www.pinterestcareers.com/jobs/software-engineer-shopping-content-san-francisco-california-united-states) | San Francisco | Software Engineer, Shopping Content |
-| [Pinterest](https://www.pinterestcareers.com/jobs/web-engineer-pinner-foundations-san-francisco-california-united-states) | San Francisco | Web Engineer, Pinner Foundations |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer) | San Francisco | Software Engineer | ✅ |
 | [Google](https://careers.google.com/jobs/results/72445869200155334-software-engineer-engineering-productivity/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=San%20Francisco,%20CA,%20USA&q=software%20engineer&sort_by=relevance) | San Francisco | Software Engineer, Engineering Productivity |
 | [Google](https://careers.google.com/jobs/results/129174759318397638-software-engineer-front-end/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=San%20Francisco,%20CA,%20USA&q=software%20engineer&sort_by=relevance) | San Francisco | Software Engineer, Frontend |
