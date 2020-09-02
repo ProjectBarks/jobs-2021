@@ -70,8 +70,11 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Spotify](https://www.spotifyjobs.com/job/data-engineer-personalization/) | NYC | Data Engineer, Personalization |
 | [Spotify](https://www.spotifyjobs.com/job/senior-data-engineer-3/) | NYC | Data Engineer |
 | [Spotify](https://www.spotifyjobs.com/job/backend-engineer-financial-integrations-and-tools/) | NYC | Backend Engineer, Financial Integration |
-| [Spotify](https://www.spotifyjobs.com/job/backend-engineer-spotify-for-artists/) | NYC | Backend Engineer, Spotify for Artists |
 | [Spotify](https://www.spotifyjobs.com/job/full-stack-engineer-data-science-tools-insights-platform/) | NYC | Full Stack Engineer, Data Science Tools |
 | [Spotify](https://www.spotifyjobs.com/job/data-engineer-free-product/) | NYC | Data Engineer, Free Product |
-| [Spotify](https://www.spotifyjobs.com/job/backend-and-data-engineer-content-platform/) | NYC | Backend and Data Engineer, Content Platform |
+| [Spotify](https://www.spotifyjobs.com/job/backend-engineer-free-product/) | NYC | Backend Engineer, Free Product |
+| [Spotify](https://www.spotifyjobs.com/job/android-engineer-platform-mission-2/) | NYC | Android Engineer, Platform Mission |
+
+| [Spotify](https://www.spotifyjobs.com/job/android-engineer-personalization/) | NYC | Android Engineer, Personalization |
+
 
