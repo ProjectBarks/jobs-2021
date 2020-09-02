@@ -33,7 +33,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 | Company       | Location       | Position                               | New Grad |
 |---------------|----------------|----------------------------------------|----------|
-| [Disney](https://quickzipapply.com/cp/?jobId=110832088&serpOrgId=115076&serpId=36&target=https:%2F%2Fxjobs.brassring.com%2FTGnewUI%2FSearch%2Fhome%2FHomeWithPreLoad%3Fpartnerid%3D25348%26siteid%3D5039%26PageType%3DJobDetails%26jobid%3D765973%26anonLogin%3D1&utm_source=ziprecruiter#home) | San Francisco | Software Engineer, Front End |
 | [Disney Tech](https://jobs.disneycareers.com/job/san-francisco/sr-software-eng/391/16179144) | San Francisco | Software Engineer |
 | [Pinterest](https://www.pinterestcareers.com/jobs/software-engineer-shopping-content-san-francisco-california-united-states) | San Francisco | Software Engineer, Shopping Content |
 | [Pinterest](https://www.pinterestcareers.com/jobs/web-engineer-pinner-foundations-san-francisco-california-united-states) | San Francisco | Web Engineer, Pinner Foundations |
