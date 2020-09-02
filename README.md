@@ -74,7 +74,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Spotify](https://www.spotifyjobs.com/job/data-engineer-free-product/) | NYC | Data Engineer, Free Product |
 | [Spotify](https://www.spotifyjobs.com/job/backend-engineer-free-product/) | NYC | Backend Engineer, Free Product |
 | [Spotify](https://www.spotifyjobs.com/job/android-engineer-platform-mission-2/) | NYC | Android Engineer, Platform Mission |
-
 | [Spotify](https://www.spotifyjobs.com/job/android-engineer-personalization/) | NYC | Android Engineer, Personalization |
 
 
