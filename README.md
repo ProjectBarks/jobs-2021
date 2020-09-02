@@ -33,7 +33,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 | Company       | Location       | Position                               | New Grad |
 |---------------|----------------|----------------------------------------|----------|
-| [Disney Tech](https://jobs.disneycareers.com/job/san-francisco/sr-software-eng/391/16179144) | San Francisco | Software Engineer |
 | [Pinterest](https://www.pinterestcareers.com/jobs/software-engineer-shopping-content-san-francisco-california-united-states) | San Francisco | Software Engineer, Shopping Content |
 | [Pinterest](https://www.pinterestcareers.com/jobs/web-engineer-pinner-foundations-san-francisco-california-united-states) | San Francisco | Web Engineer, Pinner Foundations |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer) | San Francisco | Software Engineer | ✅ |
