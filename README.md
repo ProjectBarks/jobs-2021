@@ -89,7 +89,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27) |San Francisco, CA | New Grad Software Engineer| ✅ |
 | [Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49) | Mtn. View, CA | Software Engineer |
 | [Yext](https://boards.greenhouse.io/yext/jobs/2290402?gh_src=iq6m01) | NYC | Software Engineer | ✅ |
-| [GrubHub](https://careers-grubhub.icims.com/jobs/10296/software-engineer-i/job?iis=The+Muse&iisn=The+Muse&mode=job&mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NYC | Software Engineer I |
+| [GrubHub](https://careers-grubhub.icims.com/jobs/10296/software-engineer-i/job?iis=The+Muse&iisn=The+Muse&mode=job&mobile=false&width=990&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NYC | Software Engineer I | ✅ |
 | [Honey](https://jobsearch.paypal-corp.com/en-US/job/frontend-engineer/J3R04J6H4TTBYPQ6P3F) | Los Angeles, CA | Frontend Software Engineer |
 | [Tesla](https://www.tesla.com/careers/job/software-engineerdataplatform-40000) | Palo Alto, CA | Software Engineer, Data Platform |
 | [Tesla](https://www.tesla.com/careers/job/software-engineervehicleuserinterface-42689) | Palo Alto, CA | Software Engineer, Vehicle User Interface |
