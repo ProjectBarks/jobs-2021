@@ -101,5 +101,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 | Company       | 
 |---------------|
 | [WeWork](https://careers.wework.com/job-search-results/?category=Technology&location=USA&country=US&radius=25) | 
-| [Snap Inc.](https://www.snap.com/jobs/?roles=Engineering&types=Regular)|
-| [TwoSigma](https://careers.twosigma.com/careers/SearchJobs/new%20grad)|
+| [Snap Inc.](https://www.snap.com/jobs/?roles=Engineering&types=Regular) |
+| [TwoSigma](https://careers.twosigma.com/careers/SearchJobs/new%20grad) |
+| [Amazon](https://www.amazon.jobs/en/teams/jobs-for-grads?offset=0&result_limit=10&sort=relevant&category=software-development&job_type=Full-Time&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) |
