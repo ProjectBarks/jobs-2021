@@ -70,7 +70,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Spotify](https://www.spotifyjobs.com/job/backend-engineer-free-product/) | NYC | Backend Engineer, Free Product |
 | [Spotify](https://www.spotifyjobs.com/job/android-engineer-platform-mission-2/) | NYC | Android Engineer, Platform Mission |
 | [Spotify](https://www.spotifyjobs.com/job/android-engineer-personalization/) | NYC | Android Engineer, Personalization |
-| [Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | NYC | Software Engineer |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | NYC | Software Engineer | ✅ |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214433) | Menlo Park | Software Engineer, Security | ✅ |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214452) | Menlo Park | Web Engineer | ✅ |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214244) | Menlo Park | IOS Engineer | ✅ |
