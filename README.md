@@ -36,8 +36,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer) | San Francisco | Software Engineer | ✅ |
 | [Square ](https://www.linkedin.com/jobs/view/software-engineer-frontend-buyer-payment-experiences-at-square-1995031325/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer, Front End |
 | [Facebook](https://www.facebook.com/careers/jobs/1559217084255670/?location=New%20York%2C%20NY&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, NYC | Software Engineer | ✅ |
-| [Apple](https://www.linkedin.com/jobs/view/1991637281/?alternateChannel=paview) | Cupertino, CA | Software Engineer |
-| [Apple](https://jobs.apple.com/en-us/details/200183954/software-engineer-apple-pay) | NYC | Software Engineer, Apple Pay |
+| [Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | San Francisco, CA | Software Engineer, Apple Pay |
 | [Benchling](https://www.benchling.com/careers/?gh_jid=2235318#detail) | San Francisco | Software Engineer | ✅ |
 | [Dell](https://jobs.dell.com/job/san-francisco/software-engineer/375/17206116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer |
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?source=PayPalJobs) | San Francisco | Software Engineer | ✅ |
@@ -94,8 +93,16 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [GE](https://jobs.gecareers.com/global/en/entry-level-opportunities) | NYC | Software Engineering| ✅ | 
 | [TwoSigma](https://careers.twosigma.com/careers/Careers?jobId=6670) | NYC | Software Engineering| ✅ | 
 | [Etsy](https://www.etsy.com/careers/job/743999718550976) | NYC | Software Engineering, Core Platform | 
-| [Etsy](https://www.etsy.com/careers/job/743999711476099) | NYC | Software Engineering, Product and Machine Learning| 
-
+| [Etsy](https://www.etsy.com/careers/job/743999711476099) | NYC | Software Engineering, Product and Machine Learning | 
+| [Etsy](https://www.etsy.com/careers/job/743999711476099) | NYC | Software Engineering, Product and Machine Learning | 
+| [Twilio](https://boards.greenhouse.io/twilio/jobs/2321815) | San Francisco, CA | Software Engineering | ✅ | 
+| [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002) | San Francisco, CA | Software Engineering | ✅ | 
+| [Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | San Francisco, CA | Software Engineering | ✅ | 
+| [Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | San Francisco, CA | Software Engineering | ✅ | 
+| [Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | San Francisco, CA | Software Engineering | ✅ | 
+| [Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56) | San Francisco, CA | Software Engineering | ✅ | 
+| [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267) | NYC | Software Engineering | ✅ |  
+| [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s) | Natick, Massachusetts | Software Engineering | ✅ | 
 
 ### Watching
 
