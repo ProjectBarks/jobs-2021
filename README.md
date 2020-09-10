@@ -35,7 +35,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 |---------------|----------------|----------------------------------------|----------|
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer) | San Francisco | Software Engineer | ✅ |
 | [Square ](https://www.linkedin.com/jobs/view/software-engineer-frontend-buyer-payment-experiences-at-square-1995031325/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco | Software Engineer, Front End |
-| [Twitch](https://www.linkedin.com/jobs/view/1991616417/) | San Francisco | Software Engineer |
 | [Facebook](https://www.facebook.com/careers/jobs/1559217084255670/?location=New%20York%2C%20NY&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, NYC | Software Engineer | ✅ |
 | [Apple](https://www.linkedin.com/jobs/view/1991637281/?alternateChannel=paview) | Cupertino, CA | Software Engineer |
 | [Apple](https://jobs.apple.com/en-us/details/200183954/software-engineer-apple-pay) | NYC | Software Engineer, Apple Pay |
