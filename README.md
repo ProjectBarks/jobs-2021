@@ -115,4 +115,9 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 | Company | Questions |
 |---------|-----------|
-| Amazon  | [LeetCode OA Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions) |
+| Amazon  | [Common OA Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions) |
+| Google  | [Common OA Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions) |
+| Microsoft | [Common OA Questions](https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions) |
+| Two Sigma | [Example OA (2019)](https://leetcode.com/discuss/interview-question/362324/Two-Sigma-or-OA-2019-or-SWE) |
+| IBM | [Posted OA Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=newest_to_oldest&query=IBM) |
+| Robinhood | [Posted OA Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=newest_to_oldest&query=robinhood) |
