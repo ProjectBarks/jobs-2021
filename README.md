@@ -102,6 +102,58 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56) | San Francisco, CA | Software Engineering | ✅ | 
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267) | NYC | Software Engineering | ✅ |  
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s) | Natick, Massachusetts | Software Engineering | ✅ | 
+|[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software) | ✅ |
+|[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer | ✅ |
+|[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader| ✅ |
+|[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| San Francisco, CA or Remote | Software Engineer | ✅ |
+|[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago, Illinois | Software Engineer | ✅ |
+|[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA | Software Engineer | ✅ |
+|[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | Trading System Software Developer | ✅ |
+|[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto, CA | Software Design & Development Rotational | ✅ |
+|[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | Software Engineer | ✅ |
+|[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program | ✅ |
+|[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| FL, MA, NC, CA | Software Engineer | ✅ |
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249) | CA, TX, MA, OH, TN, GA | Software Engineer | ✅ |
+|[Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=new%20grad) | Seattle CA, Provo UT | Software Engineer, Software Test Engineer | ✅ |
+|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Software-Engineer_3001699)| San Diego, CA | Engineer | |
+|[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime) | Global | Software Engineer | ✅ |
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB) | Americas | Analyst Program | ✅ |
+|[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)| VA, MA, NY, CA, IL, DE, TX | Technology Development Program Associate | ✅ |
+|[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0) | Palo Alto, New York, Seattle, Washington | Software Engineer | ✅ |
+|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641)| New York, Austin, Chicago, London | Software Engineer | ✅ |
+|[PIMCO](https://careers.pimco.com/careers/FolderDetail/2021-Full-time-Tech-Analyst-Software-Engineering/28909) | US - Flexible | Tech Analyst | ✅ |
+|[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC) | Seattle, WA | Software Engineer | ✅ |
+|[Walmart](https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer) | Bentonville, AR | Software Engineer | ✅ |
+|[Verkada](https://jobs.lever.co/verkada/508bb40a-83b5-41fd-91c8-03c5b4c44e05)|San Mateo, CA| Backend Engineer | ✅ |
+|[Verkada](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2)|San Mateo, CA| Frontend Engineer | ✅ |
+|[Verkada](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2)|San Mateo, CA| Computer Vision Engineer | ✅ |
+|[Verkada](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2)|San Mateo, CA| Embedded Engineer | ✅ |
+|[Plaid](https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d) | San Francisco, CA | Software Engineer |  ✅ |
+|[Plaid](https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32) | Utah | Software Engineer | ✅ |
+|[Plaid](https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f) | New York City, NY | Software Engineer | ✅ |
+|[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)| NY, Il, MA, CT, TX | Software Engineer | ✅ |
+|[citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
+|[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/) | Malvern, PA | Developer | ✅ |
+|[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086) | Mountain View | Driving Research Engineer | ✅ |
+|[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)| New York City, NY | Software Engineer | ✅ |
+|[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))| VA, OH, NC, NY | Software Engineer | ✅ |
+|[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply) | Mountain View | Software Engineer | ✅ |
+|[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb) | San Franciso| Software Engineer | ✅ |
+|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=2322821) | San Mateo, CA | Software Engineer | ✅ |
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Global | New Analyst Program | ✅ |
+|[General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis, MN | Digital Technology | ✅ |
+|[Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago, IL | Software Engineer | ✅ |
+|[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | Associate Software Engineer | ✅ |
+|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | Software Development Engineer | ✅ |
+|[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284978&tz=GMT-04:00&tzname=America/Toronto) | Missoula, MT | Software Engineer | ✅ |
+|[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=311) | Chicago | Software Engineer | ✅ |
+|[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | Software Engineer | ✅ |
+|[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | Software | Software Engineer | ✅ |
+|[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | Software Engineer | ✅ |
+|[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | Software Engineer | ✅ |
+|[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer | ✅ |
+|[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer|✅ |
+|[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer |✅ |
 
 ## Internships
 
