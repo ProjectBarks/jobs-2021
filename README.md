@@ -110,3 +110,9 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Snap Inc.](https://www.snap.com/jobs/?roles=Engineering&types=Regular) |
 | [Amazon](https://www.amazon.jobs/en/teams/jobs-for-grads?offset=0&result_limit=10&sort=relevant&category=software-development&job_type=Full-Time&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) |
 | [Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=Google%20Fiber&company=Loon&company=Verily%20Life%20Sciences&company=Waymo&company=Wing&company=X&company=YouTube&employment_type=FULL_TIME&jex=ENTRY_LEVEL&skills=computer%20programming) |
+
+### Interview Questions
+
+| Company | Questions |
+|---------|-----------|
+| Amazon  | [LeetCode OA Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions) |
