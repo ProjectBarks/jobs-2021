@@ -99,7 +99,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002) | San Francisco, CA | Software Engineering | ✅ | 
 | [Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | San Francisco, CA | Software Engineering | ✅ | 
 | [Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | San Francisco, CA | Software Engineering | ✅ | 
-| [Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55584) | San Francisco, CA | Software Engineering | ✅ | 
 | [Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56) | San Francisco, CA | Software Engineering | ✅ | 
 | [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267) | NYC | Software Engineering | ✅ |  
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s) | Natick, Massachusetts | Software Engineering | ✅ | 
