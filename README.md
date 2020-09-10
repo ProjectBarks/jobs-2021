@@ -98,6 +98,9 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [Amazon](https://www.amazon.jobs/en/jobs/1204412/software-development-engineer-2021-united-states) | Worldwide | Software Engineer | ✅ | 
 | [GE](https://jobs.gecareers.com/global/en/entry-level-opportunities) | NYC | Software Engineering| ✅ | 
 | [TwoSigma](https://careers.twosigma.com/careers/Careers?jobId=6670) | NYC | Software Engineering| ✅ | 
+| [Etsy](https://www.etsy.com/careers/job/743999718550976) | NYC | Software Engineering, Core Platform | 
+| [Etsy](https://www.etsy.com/careers/job/743999711476099) | NYC | Software Engineering, Product and Machine Learning| 
+
 
 ### Watching
 
