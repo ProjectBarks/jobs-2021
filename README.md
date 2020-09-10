@@ -104,7 +104,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s) | Natick, Massachusetts | Software Engineering | ✅ | 
 
 ## Internships
-## The List 👔
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
