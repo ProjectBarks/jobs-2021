@@ -148,7 +148,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=284978&tz=GMT-04:00&tzname=America/Toronto) | Missoula, MT | Software Engineer | ✅ |
 |[Wolverine Trading](https://chu.tbe.taleo.net/chu01/ats/careers/v2/viewRequisition?org=WOLVE&cws=37&rid=311) | Chicago | Software Engineer | ✅ |
 |[Appian](https://www.appian.com/careers/search/job/?gh_jid=2305797&job_name=software-engineer&location=mclean-virginia)| McLean, VA | Software Engineer | ✅ |
-|[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | Software | Software Engineer | ✅ |
+|[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | Software Engineer | ✅ |
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | Software Engineer | ✅ |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | Software Engineer | ✅ |
 |[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer | ✅ |
