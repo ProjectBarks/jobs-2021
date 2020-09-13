@@ -154,6 +154,10 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer | ✅ |
 |[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer|✅ |
 |[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer |✅ |
+|[Bloomberg](https://careers.bloomberg.com/job/detail/84014) | NYC | Software Engineer |✅ |
+|[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer) | Chicago, IL | Software Engineer  |
+|[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333481) | San Francisco, CA, NYC | Software Engineer | ✅ |
+
 
 ## Internships
 
