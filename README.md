@@ -131,7 +131,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Plaid](https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32) | Utah | Software Engineer | ✅ |
 |[Plaid](https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f) | New York City, NY | Software Engineer | ✅ |
 |[Factset](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---US-Campus--2021-_R7733)| NY, Il, MA, CT, TX | Software Engineer | ✅ |
-|[citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
+|[Citi](https://citi.avature.net/careers/ProjectDetail/New-York-New-York-United-States-NAM-ICG-Technology-Full-Time-Software-Development-Analyst-New-York-City-North-America-2021-/10721)|Various|Software Development Analyst|
 |[Vanguard](https://www.vanguardjobs.com/job/11233910/developer-entry-level-2021-start-date-malvern-pa/) | Malvern, PA | Developer | ✅ |
 |[DiDi Labs](https://boards.greenhouse.io/didi/jobs/2281086) | Mountain View | Driving Research Engineer | ✅ |
 |[Orchard](https://boards.greenhouse.io/perch1/jobs/4822825002?gh_src=f2d78a2f2us)| New York City, NY | Software Engineer | ✅ |
@@ -156,7 +156,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014) | NYC | Software Engineer |✅ |
 |[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer) | Chicago, IL | Software Engineer  |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333481) | San Francisco, CA, NYC | Software Engineer | ✅ |
-
+|[Instakart](https://instacart.careers/job/?id=2182768) | San Francisco, CA | Software Engineer, Data |
 
 ## Internships
 
