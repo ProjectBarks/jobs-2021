@@ -158,6 +158,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333481) | San Francisco, CA, NYC | Software Engineer | ✅ |
 |[Instakart](https://instacart.careers/job/?id=2182768) | San Francisco, CA | Software Engineer, Data |
 |[Embark](https://boards.greenhouse.io/embark/jobs/187969?gh_src=bsqjo7) | NYC | Software Engineer| ✅ |
+|[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959&gh_src=ky7bjw) | NYC  | Software Engineer | ✅ |
 
 ## Internships
 
