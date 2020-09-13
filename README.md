@@ -42,8 +42,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 | [PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---University-Graduate_R0057736?source=PayPalJobs) | San Francisco | Software Engineer | ✅ |
 | [Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716) | San Francisco, NYC | Software Engineer | ✅ |  
 | [Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3) | San Francisco, NYC | Software Engineer | ✅ |
-| [Ebay](https://jobs.ebayinc.com/search-jobs?ac=44359) | San Francisco | Fullstack Software Engineer |
-| [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer/403/1054728320) | San Francisco | Fullstack Software Engineer |
+| [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer/403/1054728320) | San Francisco | Fullstack Software Engineer | ✅ |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718632673) | San Francisco | Software Engineer, Web and Mobile | ✅ |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718269798) | San Francisco | Software Engineer, Infrastructure (Security) | ✅ |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999718269729) | San Francisco | Software Engineer, Infrastructure (Tools & Automation) | ✅ |
