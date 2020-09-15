@@ -25,6 +25,19 @@ Finding a job is very challenging during these tumultuous times. This document c
 ### Communities
  - [CS Careers Dev Discord](https://cscareers.dev/) - University grads helping other university grads
  - [Blind](https://www.teamblind.com/) - Anonymous network for sharing salaries, job referalls, and gossip
+ 
+### Blogs
+- Interviewing IO
+     - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
+     - [Technical interview performance really is kind of arbitrary](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
+     - [What you do after graduation matters way more than where you went to school](http://blog.interviewing.io/lessons-from-3000-technical-interviews/)
+     - [LinkedIn endorsements are dumb](http://blog.interviewing.io/linkedin-endorsements-are-dumb-heres-the-data/)
+     - [Women v Men in Technical Interview](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/)
+     - [Resumes Suck](http://blog.interviewing.io/resumes-suck-heres-the-data/)
+     - [Eng Hiring Bar: What the hell is it?](http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/)
+     - [Negotiating Salary like a Car Salesman](http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/)
+     - [Top University = Low Tier](http://blog.interviewing.io/we-looked-at-how-a-thousand-college-students-performed-in-technical-interviews-to-see-if-where-they-went-to-school-mattered-it-didnt/)
+     - [BS > MS](http://blog.alinelerner.com/how-different-is-a-b-s-in-computer-science-from-a-m-s-in-computer-science-when-it-comes-to-recruiting/)
 
 ### Salary Information
  - [Levels FYI](https://www.levels.fyi/)
