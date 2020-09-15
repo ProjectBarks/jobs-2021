@@ -156,7 +156,6 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84014) | NYC | Software Engineer |✅ |
 |[Epsilon](https://www.smartrecruiters.com/PublicisGroupe/743999719329614-associate-software-engineer) | Chicago, IL | Software Engineer  |
 |[DoorDash](https://boards.greenhouse.io/doordash/jobs/2333481) | San Francisco, CA, NYC | Software Engineer | ✅ |
-|[Instakart](https://instacart.careers/job/?id=2182768) | San Francisco, CA | Software Engineer, Data |
 |[Embark](https://boards.greenhouse.io/embark/jobs/187969?gh_src=bsqjo7) | NYC | Software Engineer| ✅ |
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959&gh_src=ky7bjw) | NYC  | Software Engineer | ✅ |
 |[New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Tech/job/New-York-NY/Backend-Software-Engineer_REQ-005194) | NYC, Remote | Software Engineer, Backend |
