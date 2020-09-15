@@ -29,7 +29,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 ### Blogs
 - Interviewing IO
      - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
-     - [Technical interview performance really is kind of arbitrary](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
+     - [Technical interview performance really is kind of arbitrary](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/#:~:text=When%20an%20interviewer%20and%20an,right%20into%20a%20technical%20question.)
      - [What you do after graduation matters way more than where you went to school](http://blog.interviewing.io/lessons-from-3000-technical-interviews/)
      - [LinkedIn endorsements are dumb](http://blog.interviewing.io/linkedin-endorsements-are-dumb-heres-the-data/)
      - [Women v Men in Technical Interview](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/)
