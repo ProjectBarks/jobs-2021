@@ -161,6 +161,9 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959&gh_src=ky7bjw) | NYC  | Software Engineer | ✅ |
 |[New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Tech/job/New-York-NY/Backend-Software-Engineer_REQ-005194) | NYC, Remote | Software Engineer, Backend |
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA, Palo Alto, CA, Seattle, WA, Toronto, CA | Software Engineer | ✅ |
+|[Verizon](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308) | Sunnyvale, CA | Software Engineer |
+|[MemSQL](https://boards.greenhouse.io/memsql/jobs/2328586) | San Francisco, CA | Software Engineer |
+
 ## Internships
 
 | Name  |  Location |  Notes |
