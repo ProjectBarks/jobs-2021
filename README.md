@@ -160,6 +160,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Embark](https://boards.greenhouse.io/embark/jobs/187969?gh_src=bsqjo7) | NYC | Software Engineer| ✅ |
 |[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959&gh_src=ky7bjw) | NYC  | Software Engineer | ✅ |
 |[New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Tech/job/New-York-NY/Backend-Software-Engineer_REQ-005194) | NYC, Remote | Software Engineer, Backend |
+|[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA, Palo Alto, CA, Seattle, WA, Toronto, CA | Software Engineer | ✅ |
 ## Internships
 
 | Name  |  Location |  Notes |
@@ -351,6 +352,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 |[Mitchell](https://careers-mitchell.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Coppell, Irvine, San Diego | |
 |[CME Group](https://jobs.cmegroup.com/jobs/5571787-software-engineering-internship-summer-2021?bid=305#start) | Chicago, IL | |
 |[Squarespace](https://www.squarespace.com/careers/jobs/2329528) | NYC | |
+
 
 
 ### Watching
