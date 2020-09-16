@@ -20,6 +20,10 @@ Finding a job is very challenging during these tumultuous times. This document c
  - [LeetCode](https://leetcode.com/) - Algorithms
  - [Interviewing IO](https://interviewing.io/) - Formalized Interviews by FAANG Recruiters
 
+### Career Sites
+ - [techinternship.io](https://techinternship.io) - Find jobs/internships with easy application management
+ - [linkedin](linkedin.com) - Largest career website in the world
+
 ### Job Postings
  - [Apply New Grad by Nurnisi](https://github.com/nurnisi/apply-new-grad)
  - [New Grad Applications by Pitt CSC](https://github.com/Pitt-CSC/NewGrad-2021)
