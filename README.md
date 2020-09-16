@@ -25,8 +25,10 @@ Finding a job is very challenging during these tumultuous times. This document c
 ### Communities
  - [CS Careers Dev Discord](https://cscareers.dev/) - University grads helping other university grads
  - [Blind](https://www.teamblind.com/) - Anonymous network for sharing salaries, job referalls, and gossip
+ - [Remote Students](remotestudents.co) - Mentorship, internships, jobs, and community for students.
  
 ### Blogs
+- [How to Land A Referral](https://www.linkedin.com/pulse/how-land-referral-interview-from-top-tech-companies-sandeep-namburi/?trackingId=glCVq9wPBRE8pSbY6WtZzg%3D%3D)
 - Interviewing IO
      - [6 red flags I saw while doing 60+ technical interviews in 30 days](http://blog.interviewing.io/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days/)
      - [Technical interview performance really is kind of arbitrary](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/#:~:text=When%20an%20interviewer%20and%20an,right%20into%20a%20technical%20question.)
