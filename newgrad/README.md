@@ -1,8 +1,6 @@
  
 # New Grad
 
-## Applications
-
 | Company       | Location       | Position                               | New Grad |
 |---------------|----------------|----------------------------------------|----------|
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer) | San Francisco | Software Engineer | ✅ |
