@@ -1,3 +1,6 @@
 [submodule "internships"]
 	path = internships
 	url = https://github.com/Pitt-CSC/Summer2021-Internships
+[submodule "interview-questions/pdf-dump"]
+	path = interview-questions/pdf-dump
+	url = https://github.com/MysteryVaibhav/leetcode_company_wise_questions
