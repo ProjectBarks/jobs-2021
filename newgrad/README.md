@@ -132,3 +132,17 @@
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-software-engineer-san-francisco-california-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | San Francisco, CA, Palo Alto, CA, Seattle, WA, Toronto, CA | Software Engineer | ✅ |
 |[Verizon](https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/job/US---Sunnyvale/Assoc-Software-Dev-Engineer_JR0014308) | Sunnyvale, CA | Software Engineer |
 |[MemSQL](https://boards.greenhouse.io/memsql/jobs/2328586) | San Francisco, CA | Software Engineer | ✅ |
+|[Veeva](https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa)| Pleasanton, CA | Associate Software Engineer | ✅ |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/job/California---San-Francisco/AMTS-Software-Engineer_JR71195?d=cta-hm-explore-grads-2) | CA, MA, NJ, IN | AMTS Software Engineer | ✅ |
+|[John Deere](https://jobs.deere.com/job/Moline-Engineering-Development-Program-2021a-IL-61265/673423600/?from=email&refid=12401133500&utm_source=J2WEmail&source=2&eid=40700-202015090415-20580782800&locale=en_US) | Moline , IL | Engineering Development Program | ✅ |
+|[Cogo Labs](https://boards.greenhouse.io/cogolabs/jobs/4839535002) | Boston | Software Engineer | ✅ |
+|[Scholastic](https://scholastic.referrals.selectminds.com/jobs/associate-software-engineer-recent-graduate-college-hire-6397)| New York City, NY | Associate Software Engineer | ✅ |
+|[Bolt](https://jobs.lever.co/bolt/5a260836-617b-47c4-a4d5-51fd012070d8) | San Francisco, CA | Software Engineer | ✅ |
+|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Algorithms-and-Machine-Learning---New-College-Grad_JR1932394-2) | Santa Clara, CA | Software Engineer | ✅ |
+|[American Express](https://jobs.americanexpress.com/jobs/20006557?lang=en-us&previousLocale=en-US) | Software Engineer | United States | ✅ |
+|[CapTech](https://jobs.smartrecruiters.com/CapTechConsulting/743999715469518-software-engineering-consultant-graduating-dec-2020-may-2021-) | Richmond,VA | Software Engineering Consultant | ✅ |
+|[IXL Learning](https://www.ixl.com/company/careers?gh_jid=4776947002) | San Mateo, CA | Software Engineer | ✅ |
+|[Cigna](https://jobs.cigna.com/us/en/technology-early-career-development-program) | United States | Technology Early Career Development Program | ✅ |
+|[arm](https://careers.arm.com/job/austin/graduate-software-engineer/33099/992655504) | Austin, TX | Graduate Software Engineer | ✅ |
+|[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | Software Engineer | ✅ |
+|[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/14/refreshFacet/318c8bb6f553100021d223d9780d30be) | Global | Software Engineer | ✅ |
