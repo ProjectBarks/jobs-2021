@@ -1,5 +1,13 @@
-# New Grads 2021 - **Hiring Information for 2021**
+# Jobs 2021 - **Hiring Information for 2021**
 Finding a job is very challenging during these tumultuous times. This document centeralizes information around the internet for finding a job. The same resources I am using to source my job hunt and help others. Feel free to share with your friends. 
+
+
+## Applications
+### New Grad
+Go to [Link](./newgrad)
+
+### Internships
+Go to [Link](./internships)
 
 ## Useful Links
 ### General
@@ -59,10 +67,3 @@ Finding a job is very challenging during these tumultuous times. This document c
 | Two Sigma | [Example OA (2019)](https://leetcode.com/discuss/interview-question/362324/Two-Sigma-or-OA-2019-or-SWE) |
 | IBM | [Posted OA Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=newest_to_oldest&query=IBM) |
 | Robinhood | [Posted OA Questions](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=newest_to_oldest&query=robinhood) |
-
-## Applications
-## New Grad
-Go to [Link](./newgrad)
-
-## Internships
-Go to [Link](./internships)
