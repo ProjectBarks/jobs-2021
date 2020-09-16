@@ -3,11 +3,11 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 
 ## Applications
-### New Grad
-Go to [Link](./newgrad)
+### New Grad: [Link](./newgrad)
+Time to go find that 💼 
 
-### Internships
-Go to [Link](./internships)
+### Internships: [Link](./internships)
+For 🧑‍🎓 & 👩‍🎓
 
 ## Useful Links
 ### General
