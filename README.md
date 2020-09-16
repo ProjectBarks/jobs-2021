@@ -5,7 +5,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 ## Applications
 ### New Grad: [Link](./newgrad)
 
-### Internships: [Link](./internships)
+### Internships: [Link](https://github.com/Pitt-CSC/Summer2021-Internships)
 
 ## Useful Links
 ### General
