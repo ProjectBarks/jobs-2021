@@ -3,9 +3,9 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 
 ## Applications
-### New Grad: [Link](./newgrad) - *Time to go find that 💼*
+### New Grad: [Link](./newgrad)
 
-### Internships: [Link](./internships) - *For 🧑‍🎓 & 👩‍🎓*
+### Internships: [Link](./internships)
 
 ## Useful Links
 ### General
