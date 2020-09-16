@@ -60,7 +60,6 @@ For 🧑‍🎓 & 👩‍🎓
 ### Interview Questions
 
 #### Leetcode
-[PDF Dump])(
 
 | Company | Questions | With Solutions |
 |---------|-----------|
