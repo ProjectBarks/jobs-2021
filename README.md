@@ -5,7 +5,12 @@ Finding a job is very challenging during these tumultuous times. This document c
 ### General
  - [Technical Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) - Resume standards, Sources to Learn Algorithms
 
-### Practice
+### Tools
+#### General
+- [JobScan](https://www.jobscan.co/) - Find the optimal keywords for each job posting
+- [Lever Resume Tester](https://itsjafer.com/#/parser) - See how your resume looks after being parsed by Level
+
+#### Practice/Preparation
  - [LeetCode](https://leetcode.com/) - Algorithms
  - [Interviewing IO](https://interviewing.io/) - Formalized Interviews by FAANG Recruiters
 
