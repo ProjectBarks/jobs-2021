@@ -18,6 +18,7 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 #### Practice/Preparation
  - [LeetCode](https://leetcode.com/) - Algorithms
+ - [Interview Cake](https://www.interviewcake.com/github-students) - Free for students *(Normally $100+)* interview prep course
  - [Interviewing IO](https://interviewing.io/) - Formalized Interviews by FAANG Recruiters
 
 ### Job Postings
