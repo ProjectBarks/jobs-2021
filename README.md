@@ -40,7 +40,7 @@ Finding a job is very challenging during these tumultuous times. This document c
  - [CS Careers Dev Discord](https://cscareers.dev/) - University grads helping other university grads
  - [Blind](https://www.teamblind.com/) - Anonymous network for sharing salaries, job referalls, and gossip
  - [Remote Students](https://remotestudents.co) - Mentorship, internships, jobs, and community for students.
- - [LinkedIn](linkedin.com) - Largest career website in the world
+ - [LinkedIn](https://linkedin.com) - Largest career website in the world
  
 ### Blogs
 - [How to Land A Referral](https://www.linkedin.com/pulse/how-land-referral-interview-from-top-tech-companies-sandeep-namburi/?trackingId=glCVq9wPBRE8pSbY6WtZzg%3D%3D)
