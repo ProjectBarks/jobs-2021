@@ -34,16 +34,13 @@ Finding a job is very challenging during these tumultuous times. This document c
         - [KennyHilton Regex](https://kennytilton.github.io/whoishiring/)
         - [HN Hired](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/)
         - [EmilBurso HNJobs](https://hnjobs.emilburzo.com/)
+ - [techinternship.io](https://techinternship.io) - Find jobs/internships with easy application management
 
 ### Communities
-#### Discussion Focused
  - [CS Careers Dev Discord](https://cscareers.dev/) - University grads helping other university grads
  - [Blind](https://www.teamblind.com/) - Anonymous network for sharing salaries, job referalls, and gossip
  - [Remote Students](https://remotestudents.co) - Mentorship, internships, jobs, and community for students.
-
-#### Job Postings Focused
- - [techinternship.io](https://techinternship.io) - Find jobs/internships with easy application management
- - [linkedin](linkedin.com) - Largest career website in the world
+ - [LinkedIn](linkedin.com) - Largest career website in the world
  
 ### Blogs
 - [How to Land A Referral](https://www.linkedin.com/pulse/how-land-referral-interview-from-top-tech-companies-sandeep-namburi/?trackingId=glCVq9wPBRE8pSbY6WtZzg%3D%3D)
