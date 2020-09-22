@@ -146,8 +146,8 @@
 |[arm](https://careers.arm.com/job/austin/graduate-software-engineer/33099/992655504) | Austin, TX | Graduate Software Engineer | ✅ |
 |[WhatsApp](https://www.whatsapp.com/join/?dept=whatsapp&id=a1K2K000007ubgBUAQ) | Menlo Park, CA | Software Engineer | ✅ |
 |[Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/14/refreshFacet/318c8bb6f553100021d223d9780d30be) | Global | Software Engineer | ✅ |
-|[SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto | |
-|[Credera](https://www.credera.com/careers/students/jobs/2266582) | Various | |
-|[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=497562#jobDetails=497562_5311) | Dearborn, MI | |
-|[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Wisconsin | | 
-|[Sentry](https://boards.greenhouse.io/sentry/jobs/2181796) | SF | |
+|[SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto, CA | Software Engineer | ✅ |
+|[Credera](https://www.credera.com/careers/students/jobs/2266582) | Various | Entry Level Consultant | ✅ |
+|[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=497562#jobDetails=497562_5311) | Dearborn, MI | Software Engineer | ✅ |
+|[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Wisconsin | Software Engineer |  |
+|[Sentry](https://boards.greenhouse.io/sentry/jobs/2181796) | San Francisco, CA | Software Engineer | ✅ |
