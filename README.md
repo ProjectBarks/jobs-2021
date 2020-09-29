@@ -62,6 +62,11 @@ Finding a job is very challenging during these tumultuous times. This document c
 
 ### Interview Questions
 
+#### Problem Design Break Down
+
+- Dynamic Programming
+    - [Patterns of DP](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+
 #### Leetcode
 
 | Company | Questions | With Solutions |
