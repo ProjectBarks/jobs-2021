@@ -220,3 +220,23 @@
 | [Waymo](https://waymo.com/joinus/1230318/)                                                                                                                                                       | Mountain View, CA                           | Software Engineer, Routing Navigation                         |                                      |
 | [Waymo](https://waymo.com/joinus/1791462/)                                                                                                                                                       | Mountain View, CA                           | Software Engineer, Simulation                                 |                                      |
 | [Waymo](https://waymo.com/joinus/1232222/)                                                                                                                                                       | Mountain View, CA                           | Software Engineer, Simulation Realism                         |                                      |
+| [Epic Careers](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Madison, WI | Software Developer | ✅ | 
+| [SambaNova Systems](https://jobs.lever.co/sambanovasystems/46d43adb-03b7-41a5-9e56-732f7d33b46a) | Palo Alto, CA | Software Engineer | ✅ |
+| [TuSimple](https://boards.greenhouse.io/tusimple/jobs/4880809002) | San Diego, CA | Software Engineer | ✅ |
+| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/2350116?gh_jid=2350116) | San Francisco or Austin or Champaign | Software Engineer | ✅ | 
+| [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Boston/Software-Development-University-Grad--Adobe-Sign-Enterprise_R100958-1) | Boston or San Jose | Software Engineer | ✅ | 
+| [Blend](https://jobs.lever.co/blendlabs/ea55639b-3ab0-45d6-98fc-13d731ed766e) | San Francisco, CA | Software Engineer | ✅ | 
+| [Clear Street](https://boards.greenhouse.io/clearstreet/) | NYC | Software Engineer | ✅ | 
+| [T Rowe Price](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer--Dec-2020-May-2021-graduates-_48077) | Owings Mills, MD | Associate Software Engineer | ✅ | 
+| [Flatiron Health](https://boards.greenhouse.io/conferenceapplications/jobs/2324288?gh_src=3b743e001us&fbclid=IwAR1qMFkNzbggbABPWyvfRUkY0Pf_W2V6KreOdqpCf5Stz4C3J02LgTipLzo) | NYC | Software Engineer | ✅ | 
+| [Snap, Inc](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/New-Grad-Software-Engineer-2021--Application-Window--2--Sep-28th---Oct-2nd-_R0015006) | CA, WA, NY | Software Engineer | ✅ | 
+| [Twitter](https://jobs.smartrecruiters.com/Twitter2/743999720851282-2021-university-application-north-america-latin-america-full-time-and-internships) | San Francisco, CA | Software Engineer | ✅ | 
+| [ADP](https://jobs.adp.com/job/11388733/associate-application-developer-global-product-technology-2021-development-program-may-2021-grads-roseland-nj/) | NYC | Software Engineer | ✅ | 
+| [Cruise](https://boards.greenhouse.io/cruise/jobs/2365730?gh_jid=2365730/) | San Francisco | Software Engineer | ✅ | 
+| [OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=2330513) | Atlanta, GA | Software Engineer | ✅ | 
+| [Zynga](https://www.zynga.com/job-listing/new-grad-full-time-rotational-product-manager/) | San Francisco, CA | Software Engineer | ✅ | 
+| [Google](https://careers.google.com/jobs/results/83479121809547974-applications-engineer-university-graduate-2021/) | CA or TX | Software Engineer | ✅ | 
+| [BoomTown](https://jobs.lever.co/boomtownroi.com/d57daeef-bd3e-496b-8c8d-df7b162fa11e/apply) | Charleston, SC | Software Engineer | ✅ | 
+| [SAP](https://jobs.sap.com/job/Pittsburgh-SAP-Ariba-Procurement-Operations-Specialist-Job-PA-15122/622691401/) | Pittsburgh, PA | Software Engineer | ✅ | 
+| [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002) | San Francisco | Software Engineer | ✅ | 
+| [l3 Harris](https://careers.l3harris.com/job/rochester/software-engineer-new-grad-rochester-ny/4832/16718485?src=SNS-10240) | NYC | Software Engineer | ✅ | 
