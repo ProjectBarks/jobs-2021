@@ -22,6 +22,7 @@ Finding a job is very challenging during these tumultuous times. This document c
  - [Interviewing IO](https://interviewing.io/) - Formalized Interviews by FAANG Recruiters
 
 ### Job Postings
+ - [Breakoutlist](https://breakoutlist.com) - Work somewhere impactful.
  - [Apply New Grad by Nurnisi](https://github.com/nurnisi/apply-new-grad)
  - [New Grad Applications by Pitt CSC](https://github.com/Pitt-CSC/NewGrad-2021)
  - CS Careers
